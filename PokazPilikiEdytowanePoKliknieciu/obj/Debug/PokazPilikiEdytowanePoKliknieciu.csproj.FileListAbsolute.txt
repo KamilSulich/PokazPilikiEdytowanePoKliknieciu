@@ -1,0 +1,7 @@
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PokazPilikiEdytowanePoKliknieciu\PokazPilikiEdytowanePoKliknieciu\bin\Debug\PokazPilikiEdytowanePoKliknieciu.exe.config
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PokazPilikiEdytowanePoKliknieciu\PokazPilikiEdytowanePoKliknieciu\bin\Debug\PokazPilikiEdytowanePoKliknieciu.exe
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PokazPilikiEdytowanePoKliknieciu\PokazPilikiEdytowanePoKliknieciu\bin\Debug\PokazPilikiEdytowanePoKliknieciu.pdb
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PokazPilikiEdytowanePoKliknieciu\PokazPilikiEdytowanePoKliknieciu\obj\Debug\PokazPilikiEdytowanePoKliknieciu.csprojAssemblyReference.cache
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PokazPilikiEdytowanePoKliknieciu\PokazPilikiEdytowanePoKliknieciu\obj\Debug\PokazPilikiEdytowanePoKliknieciu.csproj.CoreCompileInputs.cache
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PokazPilikiEdytowanePoKliknieciu\PokazPilikiEdytowanePoKliknieciu\obj\Debug\PokazPilikiEdytowanePoKliknieciu.exe
+C:\gry i filmy\backup slowik1647 google drive\moje własne projekty\programy\PokazPilikiEdytowanePoKliknieciu\PokazPilikiEdytowanePoKliknieciu\obj\Debug\PokazPilikiEdytowanePoKliknieciu.pdb
